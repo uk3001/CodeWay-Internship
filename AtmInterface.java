@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class AtmInterface {
 
 	private static double balance=1000;
+
 	
 	static Scanner s=new Scanner(System.in);
 	
